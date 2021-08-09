@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HeroSelector
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 9458e50b2a41a5546af28b31cbf45f09, type: 3}
+    - {fileID: 2800000, guid: efef8a81263d7cc4c8f54c68f435b18f, type: 3}
+    - {fileID: 2800000, guid: c54dee3e67080d34c8049d9e66b71e20, type: 3}
+    - {fileID: 2800000, guid: 1a016a046830c5f4ab06696bd51e8c4f, type: 3}
+    - {fileID: 2800000, guid: e0cfa415aa1378a47ac12511b7994d30, type: 3}
+    - {fileID: 2800000, guid: fd1ca42e387e7424f95ab436464ce1cd, type: 3}
+    - {fileID: 2800000, guid: 5a990931879c41744b5696bab30034e4, type: 3}
+    - {fileID: 2800000, guid: 9aca57873cfe4bd43a9d95643be94048, type: 3}
+    - {fileID: 2800000, guid: 534448dfcc508a844857ea198266bedb, type: 3}
+    - {fileID: 2800000, guid: 75bbbc962acd3a14dae2bf9d2c8b4aaa, type: 3}
+    - {fileID: 2800000, guid: 477be684052564a4097d371f16d62c22, type: 3}
+    - {fileID: 2800000, guid: e04c750ceb58f8d48a0274eb5e55cb1a, type: 3}
+    - {fileID: 2800000, guid: 5277be26d2e3f5147becf4f31bf3e28f, type: 3}
+    - {fileID: 2800000, guid: b051034322cf40546b32c82a596cd095, type: 3}
+    - {fileID: 2800000, guid: 6973e984a10e426448b426d8ab4e9d71, type: 3}
+    - {fileID: 2800000, guid: cac7b30c0537ef249bc43eef8f0ba337, type: 3}
+    - {fileID: 2800000, guid: e70cbd50eb1d9864e975778e1a57093e, type: 3}
+    - {fileID: 2800000, guid: 94a6190f0b6f603449c3241b4f1e3c8f, type: 3}
+    - {fileID: 2800000, guid: 2d8fef50789098a4bb2b771d888d530f, type: 3}
+    - {fileID: 2800000, guid: 8cb6c8b5c3497e4489ada16a5b2668d0, type: 3}
+    - {fileID: 2800000, guid: 051b5f43a35689241a3a2860437a2eff, type: 3}
+    - {fileID: 2800000, guid: 853a1bdf74500d443a5b672bdd341486, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites: []
+  m_PackedSpriteNamesToIndex: []
+  m_RenderDataMap: {}
+  m_Tag: HeroSelector
+  m_IsVariant: 0
